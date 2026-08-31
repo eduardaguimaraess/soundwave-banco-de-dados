@@ -28,6 +28,25 @@ Desenvolver um banco de dados relacional capaz de representar as principais func
 
 ---
 
+## 🚀 Como Executar
+
+1. Abra o MySQL Workbench ou outro cliente compatível com MySQL 8.0.
+
+2. Execute o arquivo `BANCO.sql` para criar o banco de dados, as tabelas, os relacionamentos e inserir os dados de teste.
+
+3. Após a criação do banco, execute o arquivo `CONSULTAS.sql` para visualizar as consultas desenvolvidas no projeto e seus respectivos resultados.
+
+## 📂 Arquivos do Projeto
+
+- **BANCO.sql**: contém a criação completa do banco de dados, incluindo tabelas, restrições, relacionamentos e população inicial.
+- **CONSULTAS.sql**: contém as consultas SQL elaboradas para análise dos dados da plataforma.
+
+## ✅ Resultado Esperado
+
+Ao final da execução, o banco de dados `soundwave` estará totalmente configurado e pronto para a realização das consultas e análises propostas no projeto.
+
+---
+
 ## 🗂️ Estrutura do Banco de Dados
 
 ### Entidades Principais
